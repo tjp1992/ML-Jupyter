@@ -84,6 +84,3 @@ The goal of the project should be taken into account,
 > Objective of the following project is to analyze the data in order come up with a strategy to maximize the profit of making an app `(Following Project excluded any paid apps and non-english apps from the dataset)`.
 
 As stated above, the object of the following project is to find a strategy to maximize the profit of the app that the team will be making. As such, the important columns for the project includes `Reviews`, `Number of Reviews`, `Cost of the App`, `Category`.
-
-### Part 3
-
