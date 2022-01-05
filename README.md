@@ -20,7 +20,7 @@ I would recommend going through the **Basics** and then to **Visualization** jus
 
 ##### Intermediate
 
-1. https://github.com/tjp1992/ML-Jupyter/tree/main/Intermediate/Stock_Analysis
+1. [Stock_Analysis]('https://github.com/tjp1992/ML-Jupyter/tree/main/Intermediate/Stock_Analysis')
 
 
 
