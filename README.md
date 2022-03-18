@@ -19,7 +19,7 @@ I would recommend going through the **StudyNotes** and then to **Basics** just t
 - [Data Visualization(Matplotlib)](https://github.com/tjp1992/ML-Jupyter/tree/main/StudyNotes/step_2/Data%20Visualization)
 - [Notes(Contains Summary of Above)](https://github.com/tjp1992/ML-Jupyter/tree/main/StudyNotes/Notes)
 
-**Study Project**
+**Study Project** (DataQuest)
 
 - [Basics](https://github.com/tjp1992/ML-Jupyter/tree/main/ML_Study_PJT/Basics)
   1. [App Analysis](https://github.com/tjp1992/ML-Jupyter/tree/main/ML_Study_PJT/Basics/App_Analysis)
@@ -28,5 +28,7 @@ I would recommend going through the **StudyNotes** and then to **Basics** just t
 - [Visualization](https://github.com/tjp1992/ML-Jupyter/tree/main/ML_Study_PJT/Visualization)
   1. [Westbound Traffic](https://github.com/tjp1992/ML-Jupyter/tree/main/ML_Study_PJT/Visualization/1.WestBound_Traffic)
   2. [Euro Daily Exchange](https://github.com/tjp1992/ML-Jupyter/tree/main/ML_Study_PJT/Visualization/2.Euro_Daily_Exchange)
+
+**Kaggle Project**
 
 **The whole Process is still in progress, More Updates to come**
