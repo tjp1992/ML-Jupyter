@@ -50,11 +50,21 @@ A dataset is collection of **values**, either **quantitative(int, float)** or **
 
 ### Tidy Data
 
+Tidy data is a standard way of mapping the meaning of a data to it's structure. A tidy structure is as follows:
+
+1. Each *Variable* forms a *column*
+2. Each *Observation* forms a *row*
+3. Each type of *observation* unit forms a *table*
+
 
 
 ## Tidying Messy Datasets
 
+Real datasets can, and often do, violate the three precepts of tidy data in almost every way imaginable. The following Sections proposes solutions for the five most common problems with messy datasets.
+
 ### Column headers are values, not variable names
+
+
 
 ### Multiple Variables Stored in one column
 
