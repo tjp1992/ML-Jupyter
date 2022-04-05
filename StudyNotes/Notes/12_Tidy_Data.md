@@ -46,9 +46,7 @@ There are many ways to display the datasets in the table, but in order to determ
 
 ### Data Semantics
 
-A dataset is collection of **values**, either **quantitative(int, float)** or **strings(Could be numerical)**. Values are organized in two ways.
-
-1. 
+A dataset is collection of **values**, either **quantitative(int, float)** or **strings(Could be numerical)**. Values are organized in two ways. Every value belongs to a variable and an observation. A variable contains all values that measure the same underlying attribute (like height, temperature, duration) across units. An observation contains all values measured on the same unit (like a person, or a day, or a race) across attributes.
 
 ### Tidy Data
 
